@@ -1,2 +1,2 @@
 # altera_titulo
-https://davi1803.github.io/altera_titutlo/
+https://Davi1803.github.io/altera_titutlo/
